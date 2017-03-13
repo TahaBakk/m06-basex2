@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BaseX8611">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaseX861.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
